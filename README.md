@@ -4,7 +4,7 @@ This is my roadmap and progress details for my OSCP course work. No notes are pr
 
 ## Progress - Training Material
 
-### Introduction: 
+### Introduction: Completed - 11/3/2023
 ![image](https://progress-bar.dev/100/?width=500)
 
 ### Effective Learning Strategies: 
