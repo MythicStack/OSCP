@@ -1,5 +1,7 @@
 # OSCP
-This is my roadmap and progress details for my OSCP course work. No notes are provided.
+
+This is my roadmap and progress details for my OSCP course work.
+
 ---
 
 ## Progress - Training Material
