@@ -10,7 +10,7 @@ This is my roadmap and progress details for my OSCP course work.
 ![image](https://progress-bar.dev/100/?width=500)
 
 ### Effective Learning Strategies: 
-![image](https://progress-bar.dev/11/?width=500)
+![image](https://progress-bar.dev/100/?width=500)
 
 ### Report Writing: 
 ![image](https://progress-bar.dev/0/?width=500)
