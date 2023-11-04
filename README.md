@@ -12,11 +12,11 @@ This is my roadmap and progress details for my OSCP course work.
 ### Effective Learning Strategies: 11/3/2023
 ![image](https://progress-bar.dev/100/?width=500)
 
-### Report Writing: 
-![image](https://progress-bar.dev/0/?width=500)
+### Report Writing: 11/3/2023
+![image](https://progress-bar.dev/100/?width=500)
 
 ### Information Gathering: 
-![image](https://progress-bar.dev/0/?width=500)
+![image](https://progress-bar.dev/6/?width=500)
 
 ### Vulnerability Scanning: 
 ![image](https://progress-bar.dev/0/?width=500)
