@@ -15,8 +15,8 @@ This is my roadmap and progress details for my OSCP course work.
 ### Report Writing: 11/3/2023
 ![image](https://progress-bar.dev/100/?width=500)
 
-### Information Gathering: 
-![image](https://progress-bar.dev/65/?width=500)
+### Information Gathering: 11/22/2023
+![image](https://progress-bar.dev/100/?width=500)
 
 ### Vulnerability Scanning: 
 ![image](https://progress-bar.dev/0/?width=500)
