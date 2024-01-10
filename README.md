@@ -19,10 +19,10 @@ This is my roadmap and progress details for my OSCP course work.
 ![image](https://progress-bar.dev/100/?width=500)
 
 ### Vulnerability Scanning: 
-![image](https://progress-bar.dev/0/?width=500)
+![image](https://progress-bar.dev/63/?width=500)
 
 ### Web Application Attacks (Intro): 
-![image](https://progress-bar.dev/0/?width=500)
+![image](https://progress-bar.dev/61/?width=500)
 
 ### Common Web Application Attackks: 
 ![image](https://progress-bar.dev/0/?width=500)
