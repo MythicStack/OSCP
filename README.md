@@ -1,6 +1,6 @@
 # OSCP
 
-This is my roadmap and progress details for my OSCP course work.
+This is my roadmap and progress details for my OSCP course work. It's surprisingly hard to make enough time to really dig into this thing.
 
 ---
 
@@ -18,14 +18,14 @@ This is my roadmap and progress details for my OSCP course work.
 ### Information Gathering: 11/22/2023
 ![image](https://progress-bar.dev/100/?width=500)
 
-### Vulnerability Scanning: 
-![image](https://progress-bar.dev/63/?width=500)
+### Vulnerability Scanning: 1/17/2024
+![image](https://progress-bar.dev/100/?width=500)
 
-### Web Application Attacks (Intro): 
-![image](https://progress-bar.dev/61/?width=500)
+### Web Application Attacks (Intro): 1/17/2024
+![image](https://progress-bar.dev/100/?width=500)
 
 ### Common Web Application Attackks: 
-![image](https://progress-bar.dev/0/?width=500)
+![image](https://progress-bar.dev/11/?width=500)
 
 ### SQL Injection Attacks:
 ![image](https://progress-bar.dev/0/?width=500)
